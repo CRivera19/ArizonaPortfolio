@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 1em 0;
+  background-color: grey;
+}
+nav h1 {
+  padding-left: 1em;
+}
+nav ul {
+  display: flex;
+  justify-content: space-around;
+}
+nav ul li {
+  list-style: none;
+  padding-right: 1em;
+}
+#About {
+  padding: 2em 3em;
+}
+#Skills {
+  padding: 2em 3em;
+}
+#Certs {
+  padding: 2em 3em;
+}
+#Portfolio {
+  padding: 2em 3em;
+}
+footer {
+text-align: center;
+padding:1em;
+background-color: grey;
+}
+
+.header {
+  padding-bottom: 0.5em;
+}
